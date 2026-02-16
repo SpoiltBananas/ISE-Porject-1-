@@ -1,0 +1,22 @@
+Requirements Version 2
+Best Buy–Style Electronics E-Commerce System
+
+Functional Requirements:
+- register with email verification
+- login using secure authentication
+- browse and search electronic products
+- compare product specifications
+- add and remove items from shopping cart
+- make secure online payments
+- track orders in real time
+- Admins can be able to manage products, pricing, and promotions
+- Admins would be able to monitor inventory levels
+- Administrators can manage customer orders
+
+Non-Functional Requirements:
+- System must support high traffic during sales
+- Page load time must be under 3 seconds
+- Payment transactions must be encrypted
+- System availability must be 99.9%
+- System must be scalable
+- System must ensure data privacy
