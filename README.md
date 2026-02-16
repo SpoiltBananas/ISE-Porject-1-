@@ -6,8 +6,8 @@ Best Buy–style Electronics E-Commerce Platform
 Repository Contents:
 
 requirements/
-- requirements_v1.md → Initial system requirements of the system
-- requirements_v2.md → Revised and improved requirements after validation
+- requirements_v1.md - Initial system requirements of the system
+- requirements_v2.md - Revised and improved requirements after validation
 
 Version Control Strategy:
 The system requirements were first documented in requirements_v1.md.
