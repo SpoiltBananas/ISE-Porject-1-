@@ -1,1 +1,18 @@
-V1
+Requirements Version 1
+Best Buy–Style Electronics E-Commerce System trial
+
+Functional Requirements are as follows:
+- register and login
+- browse electronic products
+- search products
+- add products to shopping cart
+- make online payments
+- track orders
+- Admin will be able to manage product listings
+- Admin can update inventory
+
+Non-Functional Requirements:
+- support multiple users or large quantity of people 
+- load pages quickly
+- secure and trustworthy 
+- available online on website
